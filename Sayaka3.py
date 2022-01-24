@@ -1,0 +1,5 @@
+print("First Word Dal = ")
+inpnum1 =input()
+print("Second Word Enter Kar = ")
+inpnum2 =input()
+print("ye le = " , int(inpnum1)+ int(inpnum2))
